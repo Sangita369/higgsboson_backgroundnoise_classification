@@ -45,10 +45,6 @@ pip install xgboost pandas scikit-learn matplotlib seaborn
 python train.py
 ```
 
-### 3️⃣ Test the Model
-```bash
-python test.py
-```
 
 ### 4️⃣ Visualize Results
 - Check the `feature_importance.png` for key features
